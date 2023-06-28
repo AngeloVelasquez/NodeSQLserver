@@ -1,0 +1,7 @@
+{
+    "presets": ["@babel/preset-env"]
+} 
+/*
+configurando babel para asi facilitar la importación y exportación
+de modulos en node
+*/
