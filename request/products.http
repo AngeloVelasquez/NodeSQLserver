@@ -29,7 +29,7 @@ GET {{api}}/count
 
 ### UPDATE PRODUCT BY ID
 
-PUT {{api}}/1
+PUT {{api}}/
 Content-Type: application/json
 
 {
